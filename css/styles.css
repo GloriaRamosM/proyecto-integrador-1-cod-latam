@@ -1,0 +1,53 @@
+.bgimage {
+    background-image: url(../bgimage.webp);
+    height: 8000%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+p {
+    color: red;
+    font-family: 'Chivo Mono', monospace;
+}
+
+.intro {
+    background-color: rgb(255, 244, 127);
+}
+
+.parrafo2 {
+    color: blue;
+}
+
+#lista {
+    color: green;
+}
+
+.trabajospersonales {
+    text-align: center;
+}
+
+p {
+    margin: 20px;
+}
+
+.gloria {
+    text-align: center;
+}
+
+.imagenes {
+    margin: 15px;
+}
+
+.barradenavegacion {
+    margin: 20px;
+    margin-inline: 10px;
+}
+
+.navegacionfooter {
+    margin: 20px;
+    margin-inline: 10px;
+}
