@@ -137,6 +137,19 @@ section{
     text-align: center;
 }
 
-.iconos {
-    display: flex;
+.iconos a i {
+    padding: 10px;
+    font-size: 30px;
+}
+
+footer{
+    background-color: #98D8AA;
+    bottom: 0;
+    height: 90px;
+    width: 100%;
+}
+
+footer p{
+text-align: center;
+padding-top: 30px;
 }
